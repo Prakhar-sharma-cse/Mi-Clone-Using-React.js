@@ -1,0 +1,9 @@
+.navOptions{
+    display:flex;
+    /* padding:2vmax; */
+    justify-content:space-evenly;
+    background:#fff;
+    z-index: 1000;
+    
+
+}
